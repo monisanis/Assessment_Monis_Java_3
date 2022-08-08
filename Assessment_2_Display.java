@@ -1,9 +1,9 @@
-package com.abc.service;
+package com.service;
 
 import java.util.Scanner;
 
-import com.abc.DAO.Assessment_2_Main;
-import com.abc.model.Assessment_2_Student;
+import com.DAO.Assessment_2_Main;
+import com.model.Assessment_2_Student;
 
 public class Assessment_2_Display {
 		public static void display() throws Exception {
