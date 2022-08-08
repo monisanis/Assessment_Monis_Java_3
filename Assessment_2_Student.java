@@ -1,4 +1,4 @@
-package com.abc.model;
+
 
 public class Assessment_2_Student {
 	int rollno;
