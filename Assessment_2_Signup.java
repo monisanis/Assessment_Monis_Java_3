@@ -1,11 +1,11 @@
-package com.abc.service;
+
 
 import java.sql.Connection;
 import java.util.Scanner;
 
-import com.abc.DAO.Assessment_2_Main;
-import com.abc.model.Assessment_2_Student;
-import com.abc.validation.Assessment_2_Validate;
+import com.Assessment_2_Main;
+import com.Assessment_2_Student;
+import com.Assessment_2_Validate;
 
 public class Assessment_2_Signup {
 	public static void signup() {
