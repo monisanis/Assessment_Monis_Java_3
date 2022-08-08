@@ -1,9 +1,9 @@
-ackage com.abc.service;
+ackage com.service;
 
 import java.util.Scanner;
 
-import com.abc.DAO.Assessment_2_Main;
-import com.abc.model.Assessment_2_Student;
+import com.Assessment_2_Main;
+import com.Assessment_2_Student;
 
 public class Assessment_2_Modification {
 
