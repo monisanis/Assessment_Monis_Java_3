@@ -1,11 +1,11 @@
-package com.abc;
+
 
 import java.util.Scanner;
 
-import com.abc.service.Assessment_2_Delete;
-import com.abc.service.Assessment_2_Display;
-import com.abc.service.Assessment_2_Modification;
-import com.abc.service.Assessment_2_Signup;
+import com.service.Assessment_2_Delete;
+import com.service.Assessment_2_Display;
+import com.service.Assessment_2_Modification;
+import com.service.Assessment_2_Signup;
 
 
 public class Assessment_2_App 
